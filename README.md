@@ -1,1 +1,2 @@
-# Gitpractice-Repo
+# New-Jenkins-simple-pipeline
+Simple jenkins pipeline
