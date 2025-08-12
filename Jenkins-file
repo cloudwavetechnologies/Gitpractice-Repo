@@ -16,11 +16,4 @@ pipeline {
       }
     }
   }
-  stages {
-    stage('Deploy') {
-      steps {
-        sh 'node --version'
-      }
-    }
-  }
 }
